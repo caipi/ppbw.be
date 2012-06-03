@@ -1,8 +1,8 @@
 <header> <!-- Defining the header section of the page with the appropriate tag -->
 
-	<div id="gohome"><a href="http://localhost/tempppbw.be/"><img src="img/gohome.png"></a></div>	
+	<div id="gohome"><a href="/"><img src="img/gohome.png"></a></div>	
 
-	<a href="http://localhost/tempppbw.be/"><img src="img/Logo-bw.png" alt="logo du ppbw"/></a>
+	<a href="/"><img src="img/Logo-bw.png" alt="logo du ppbw"/></a>
 	
 	<hgroup>
 		<h1 class="pageheader">« Nous sommes tous des pirates ! » Parti Pirate : Liste 4 pour les provinciales !</h1>
