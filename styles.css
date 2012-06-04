@@ -18,6 +18,17 @@
 	text-shadow:0 3px 3px #6B2994;
 }
 
+#news { 
+	display:block;
+	position : absolute;
+	padding : 0px 0px 0px;
+	float : left;
+	margin-top : 85px;
+	margin-left : 570px;
+	width : 300px;
+	color : #6B2994;
+}
+
 #twitter {
 	float : right;
 	display : inline;
