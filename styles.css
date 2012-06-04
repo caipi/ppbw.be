@@ -39,7 +39,7 @@
 	position : absolute;
 	padding : 0px 0px 0px;
 	float : left;
-	margin-top : 65px;
+	margin-top : 1em;
 	margin-left : 570px;
 	background:url("img/gohome-now.png") no-repeat;
 }
@@ -205,7 +205,7 @@ nav{
 	padding:0 5px;
 	position:absolute;
 	right:0;
-	top:4em;
+	top:1em;
 	
 	border:1px solid #FCFCFC;
 
