@@ -38,12 +38,12 @@
 			<article id="Outils">
 			
 				<div class="clear">
-					<p>Suivez nous sur 
+					<p style="text-align:center">Suivez nous sur 
 					<a href="https://twitter.com/#%21/pp_bw" class="external text" rel="nofollow">Twitter</a>, 
 					<a href="https://plus.google.com/u/0/b/108484344208949422944/" class="external text" rel="nofollow">Google+</a>, et
 					<a href="http://www.facebook.com/pages/Parti-Pirate-Brabant-wallon/132640623428484" class="external text" rel="nofollow">Facebook</a>.
 					</p>
-					<p>Participez avec nous sur le <a href="http://www.pirateparty.be/wiki/index.php/Crew_BW">wiki</a> ou le <a href="http://forum.pirateparty.be/forumdisplay.php?fid=22" class="external text" rel="nofollow"> forum</a>.</p>
+					<p style="text-align:center">Participez avec nous sur le <a href="http://www.pirateparty.be/wiki/index.php/Crew_BW">wiki</a> ou le <a href="http://forum.pirateparty.be/forumdisplay.php?fid=22" class="external text" rel="nofollow"> forum</a>.</p>
 					<div class="twitter"><a href="https://twitter.com/twitter" class="twitter-follow-button" data-show-count="false" data-lang="fr" data-size="small">Suivre @pp_bw</a></div>
 				</div>
 				<?php dernierTweet(); ?> <!-- Derniers Tweet de @pp_bw -->

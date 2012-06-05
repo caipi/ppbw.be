@@ -20,7 +20,10 @@
                     	<figure class="carre"> <!-- The figure tag marks data (usually an image) that is part of the article -->
 	                    	<img src="img/SavoirPlus.jpg" alt="En Savoir Plus..."/>
                         </figure>
-
+						<p>Si vous voulez en savoir plus sur le parti pirate, et sur sa section Brabant wallon, nous vous invitons à nous 
+						<a href="contact.php">contacter</a> pour discuter ensemble. Vous êtes également bienvenus à nos 
+						<a href="http://www.pirateparty.be/wiki/index.php/Crew_BW#Prochain_rendez-vous"> prochaines réunions</a>. Si vous préférez, nous vous offrons aussi des 
+						<a href="faq.php">réponses aux questions les plus posées</a> et, ci-dessous, quelques liens externes qui nous semblent intéressants pour cerner les pirates.</p>
 						<p>Wikipedia :
 						<ul><li><a href="http://fr.wikipedia.org/wiki/Parti_pirate_international">Parti Pirate International</a></li>
 						<li><a href="http://fr.wikipedia.org/wiki/Parti_pirate_%28France%29">Parti pirate (France)</a></li>

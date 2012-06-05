@@ -61,6 +61,7 @@
 	position: relative;
 	margin-left: auto;
 	margin-right: auto;
+	top: 15px;
 	-moz-border-radius:10px;
 	-webkit-border-radius:10px;
 	border-radius:10px;
@@ -177,9 +178,23 @@ h2{
 	text-transform:uppercase;
 }
 
+h3{
+	font-size:1.8em;
+}
+
+h4{
+	font-weight:bold;	
+	margin : 8px 0px 8px;
+	font-size : 1.2em;
+}
+
 p{
 	line-height:1.5em;
 	padding-bottom:1em;
+}
+
+.faq{
+	margin-left : 10px;
 }
 
 .marginLeft25{
@@ -241,7 +256,7 @@ nav ul li a:visited{
 	color:#565656;
 	display:block;
 	float:left;
-	font-size:1.25em;
+	font-size:1em;
 	font-weight:bold;
 	margin:5px 2px;
 	padding:7px 10px 4px;
@@ -262,6 +277,14 @@ nav, article, nav ul li a,figure{
 }
 
 /* Article styles: */
+
+.exposant {
+	color : red;
+}
+
+.note {
+	font-size : 0.7em;
+}
 
 #page{
 	width:960px;
