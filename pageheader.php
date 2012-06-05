@@ -7,7 +7,7 @@
 	<a href="/"><img src="img/Logo-bw.png" alt="logo du ppbw"/></a>
 	
 	<hgroup>
-		<h1 class="pageheader">« Nous sommes tous des pirates ! » Parti Pirate : Liste 4 pour les provinciales !</h1>
+		<h1 class="pageheader">« Nous sommes tous des pirates ! » Le Parti Pirate, la démocratie du troisième millénaire!</h1>
 	</hgroup>
     
 	<nav class="clear"> <!-- The nav link semantically marks your main site navigation -->
