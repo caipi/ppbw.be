@@ -20,24 +20,6 @@
 	display : inline;
 }
 
-#gohome { 
-	display:block;
-	position : absolute;
-	padding : 0px 0px 0px;
-	float : left;
-	margin-top : 1em;
-	margin-left : 570px;
-	background:url("img/gohome-now.png") no-repeat;
-}
-
-#gohome a, #gohome a:link, #gohome a:visited {
-	display:block;
-}
-
-#gohome:hover img{ 
-	visibility : hidden;
-}
-
 #box1 {
 	position : absolute;
 	float : left;
