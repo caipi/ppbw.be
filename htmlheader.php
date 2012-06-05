@@ -1,3 +1,9 @@
+<!DOCTYPE html> <!-- The new doctype -->
+<!--[if lt IE 7]>      <html class="ie6"> <![endif]-->
+<!--[if IE 7]>         <html class="ie7"> <![endif]-->
+<!--[if IE 8]>         <html class="ie8"> <![endif]-->
+<!--[if IE 9]>         <html class="ie9"> <![endif]-->
+<!--[if gt IE 9]><!--> <html>         <!--<![endif]-->
 	<head>
 
 		<meta charset='utf-8'>
@@ -6,6 +12,7 @@
 		<title>Parti Pirate du Brabant Wallon</title>
 		
 		<link rel="stylesheet" type="text/css" href="styles.css" />
+		<link rel="Shortcut Icon" type="image/x-icon" href="img/favicon.ico" />
 		
 		<!-- Internet Explorer HTML5 enabling code: -->
 		
