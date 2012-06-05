@@ -13,19 +13,19 @@
 					
 						<figure class="figurebox"  id="box1">
 							<a href="quisontlespirates.php"><img class="boximage" src="img/QuiSontLesPirates.jpg" alt="Qui sont les pirates?"/></a>
-							<figcaption id="box1text" class="boxtext"><a href="quisontlespirates.php">Qui Sont Les Pirates ?</a></figcaption>
+							<figcaption id="box1text" class="boxtext"><a href="quisontlespirates.php">Qui sont les pirates ?</a></figcaption>
 						</figure>
 					
 					
 						<figure class="figurebox" id="box2">
 							<a href="philosophiepirate.php"><img class="boximage" src="img/Philosophie.jpg" alt="Philosophie Pirate"/></a>
-							<figcaption id="box2text" class="boxtext"><a href="philosophiepirate.php">C'est quoi la philosophie Pirate ?</a></figcaption>
+							<figcaption id="box2text" class="boxtext"><a href="philosophiepirate.php">Qu'est ce que le Parti Pirate ?</a></figcaption>
 						</figure>
 					
 					
 						<figure class="figurebox" id="box3">
 							<a href="propositionspirates.php"><img class="boximage" src="img/Proposition.jpg" alt="Propositions pour les élections 2012"/></a>
-							<figcaption id="box3text" class="boxtext"><a href="propositionspirates.php">Et nos propositions pour les élections 2012 ?</a></figcaption>
+							<figcaption id="box3text" class="boxtext"><a href="propositionspirates.php">Pourquoi voter pirate en 2012 ?</a></figcaption>
 						</figure>
 					 
 
@@ -39,7 +39,7 @@
 			
 				<div class="clear">
 					
-					<p>Vous gènez pas, jettez un oeuil au <a href="http://www.pirateparty.be/wiki/index.php/Crew_BW">Wiki</a> ou <a href="http://forum.pirateparty.be/forumdisplay.php?fid=22" class="external text" rel="nofollow">sur le forum</a>.</p>
+					<p>Participez avec nous sur le <a href="http://www.pirateparty.be/wiki/index.php/Crew_BW">wiki</a> ou le <a href="http://forum.pirateparty.be/forumdisplay.php?fid=22" class="external text" rel="nofollow"> forum</a>.</p>
 					<div class="twitter"><a href="https://twitter.com/twitter" class="twitter-follow-button" data-show-count="false" data-lang="fr" data-size="small">Suivre @pp_bw</a></div>
 				</div>
 				<?php dernierTweet(); ?> <!-- Derniers Tweet de @pp_bw -->
