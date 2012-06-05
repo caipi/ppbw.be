@@ -1,7 +1,4 @@
-<!DOCTYPE html> <!-- The new doctype -->
-<html>
-	
-	<?php include("htmlheader.php"); ?>
+<?php include("htmlheader.php"); ?>
     
     <body>
     	
@@ -21,7 +18,7 @@
                     <div class="articleBody clear">
                     
                     	<figure> <!-- The figure tag marks data (usually an image) that is part of the article -->
-	                    	<a href="#"><img src="img/Proposition.jpg" width="620" height="340" alt="Propositions pour les élections"/></a>
+	                    	<a href="#"><img src="img/Proposition.jpg" alt="Propositions pour les élections"/></a>
                         </figure>
 
 						<p>Nous ne vous le cachons pas : le Parti Pirate est jeune. Notre objectif, lors de ces élections n’est pas d’obtenir une majorité. Ni même de faire partie d’une coalition. Par contre, obtenir quelques élus, ce serait déjà très bien : en effet, nous aimerions <b>vous montrer de quoi est capable un pirate !</b> Montrer aux Belges - et au monde - que le mouvement pirate est en route, qu’il tient la route et qu’il représente une évolution naturelle de la société, voilà ce que vous ferez si vous votez pirate. Et nous vous promettons que si nous avons des élus, vous entendrez parler d’eux !</p>

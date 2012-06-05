@@ -1,7 +1,4 @@
-<!DOCTYPE html> <!-- The new doctype -->
-<html>
-	
-	<?php include("htmlheader.php"); ?>
+<?php include("htmlheader.php"); ?>
     
     <body>
     	
@@ -13,32 +10,24 @@
 
 				<div id="container">
 					
-					<a href="quisontlespirates.php">
-						<div id="box1">
-							<figure class="figurebox"><img class="boximage" src="img/QuiSontLesPirates.jpg" alt="Qui sont les pirates?"/></figure>
-						</div>			
-						<div id="box1text" class="boxtext" >
-							Qui Sont Les Pirates ?
-						</div> 			
-					</a>
 					
-					<a href="philosophiepirate.php">
-						<div id="box2">
-							<figure class="figurebox"><img class="boximage" src="img/Philosophie.jpg" alt="Philosophie Pirate"/></figure>
-						</div>
-						<div id="box2text" class="boxtext" >
-							C'est quoi la philosophie Pirate ?
-						</div>
-					</a>
+						<figure class="figurebox"  id="box1">
+							<a href="quisontlespirates.php"><img class="boximage" src="img/QuiSontLesPirates.jpg" alt="Qui sont les pirates?"/></a>
+							<figcaption id="box1text" class="boxtext"><a href="quisontlespirates.php">Qui Sont Les Pirates ?</a></figcaption>
+						</figure>
 					
-					<a href="propositionspirates.php">
-						<div id="box3">
-							<figure class="figurebox"><img class="boximage" src="img/Proposition.jpg" alt="Propositions pour les élections 2012"/></figure>
-						</div>		
-						<div id="box3text" class="boxtext">
-							Et nos propositions pour les élections 2012 ? 
-						</div>
-					</a> 
+					
+						<figure class="figurebox" id="box2">
+							<a href="philosophiepirate.php"><img class="boximage" src="img/Philosophie.jpg" alt="Philosophie Pirate"/></a>
+							<figcaption id="box2text" class="boxtext"><a href="philosophiepirate.php">C'est quoi la philosophie Pirate ?</a></figcaption>
+						</figure>
+					
+					
+						<figure class="figurebox" id="box3">
+							<a href="propositionspirates.php"><img class="boximage" src="img/Proposition.jpg" alt="Propositions pour les élections 2012"/></a>
+							<figcaption id="box3text" class="boxtext"><a href="propositionspirates.php">Et nos propositions pour les élections 2012 ?</a></figcaption>
+						</figure>
+					 
 
 				</div>
 				<!-- 3 Boxes END-->

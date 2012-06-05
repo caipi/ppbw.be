@@ -1,7 +1,4 @@
-<!DOCTYPE html> <!-- The new doctype -->
-<html>
-	
-	<?php include("htmlheader.php"); ?>
+<?php include("htmlheader.php"); ?>
     
     <body>
     	
@@ -20,16 +17,18 @@
                     
                     <div class="articleBody clear">
                     
-                    	<figure> <!-- The figure tag marks data (usually an image) that is part of the article -->
-	                    	<img src="img/SavoirPlus.jpg" width="620" height="340" alt="En Savoir Plus..."/>
+                    	<figure class="carre"> <!-- The figure tag marks data (usually an image) that is part of the article -->
+	                    	<img src="img/SavoirPlus.jpg" alt="En Savoir Plus..."/>
                         </figure>
 
-						<p>Commençons simplement par la page Wikipedia sur <a href="http://fr.wikipedia.org/wiki/Parti_pirate_international">le Parti Pirate International</a>.</p>
-						<p>Ou bien celle du <a href="http://fr.wikipedia.org/wiki/Parti_pirate_%28France%29">Parti pirate (France)</a>.</p>
-						<p>Ou le site du Parti Pirate Belge : <a href="http://pirateparty.be/?lang=fr">www.pirateparty.be</a>.</p>
-						<p>Et un coup d'oeuil sur la situation des <a href="http://fr.wikipedia.org/wiki/Parti_pirate">partis pirate en Europe</a> sur Wikipedia également.</p>
-						<p><a href="https://www.google.com/search?q=parti+pirate+belgei&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs#q=parti+pirate+belge&hl=fr&client=ubuntu&hs=L9t&channel=fs&prmd=imvns&source=lnms&tbm=nws&ei=Mu3HT_vyIu6U0QXsw8mPDw&sa=X&oi=mode_link&ct=mode&cd=5&ved=0CEMQ_AUoBA&fp=1&biw=1631&bih=931&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&cad=b">Suivez également l'actualité</a> sur Google.</p>
-						<p>Mais tout "bon" pirate devrait lire <a href="http://www.pirateparty.be/wiki/index.php/F****_%28suggested%29_manual_FR">le F*** Manual</a></p>
+						<p>Wikipedia :
+						<ul><li><a href="http://fr.wikipedia.org/wiki/Parti_pirate_international">Parti Pirate International</a></li>
+						<li><a href="http://fr.wikipedia.org/wiki/Parti_pirate_%28France%29">Parti pirate (France)</a></li>
+						<li><a href="http://fr.wikipedia.org/wiki/Parti_pirate">partis pirate en Europe</a></li>
+						</ul></p>
+						<p>Le site du Parti Pirate Belge : <a href="http://pirateparty.be/?lang=fr">www.pirateparty.be</a>.</p>
+						<p><a href="https://www.google.com/search?q=parti+pirate+belge&tbm=nws">Suivez également l'actualité</a> sur Google.</p>
+						<p>Le <a href="http://www.pirateparty.be/wiki/index.php/F****_%28suggested%29_manual_FR">F*** Manual</a> proposé par le Parti Pirat belge.</p>
 						<p>Bien d'autres choses viendront sur ce site alors patience... :)</p>
 
                     </div>

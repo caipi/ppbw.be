@@ -1,7 +1,4 @@
-<!DOCTYPE html> <!-- The new doctype -->
-<html>
-	
-	<?php include("htmlheader.php"); ?>
+<?php include("htmlheader.php"); ?>
 	<?php $filename = "quisontlespirates.php"; ?>
     
     <body>
@@ -22,7 +19,7 @@
                     <div class="articleBody clear">
                     
                     	<figure> <!-- The figure tag marks data (usually an image) that is part of the article -->
-	                    	<img src="img/QuiSontLesPirates.jpg" width="620" height="340" alt="Qui Sont les Pirates ?"/>
+	                    	<img src="img/QuiSontLesPirates.jpg" alt="Qui Sont les Pirates ?"/>
                         </figure>
                         
                         <p>Un pirate est un citoyen, de droite, de gauche ou d’ailleurs, qui se rend compte que le monde change drastiquement. Comme l’imprimerie a favorisé la renaissance au XVe siècle, Internet et la technologie changent profondément notre monde aujourd'hui. <b>Aujourd’hui, chacun a la possibilité de s’informer, de s’exprimer et de communiquer.</b> Les citoyens peuvent construire ensemble, sans barrières. Une idée peut être partagée, amendée et réalisée sans intermédiaire. Les outils sont disponibles. Les citoyens peuvent être actifs.</p>

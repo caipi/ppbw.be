@@ -1,7 +1,4 @@
-<!DOCTYPE html> <!-- The new doctype -->
-<html>
-	
-	<?php include("htmlheader.php"); ?>
+<?php include("htmlheader.php"); ?>
     
     <body>
     	
@@ -21,7 +18,7 @@
                     <div class="articleBody clear">
                     
                     	<figure> <!-- The figure tag marks data (usually an image) that is part of the article -->
-	                    	<a href="#"><img src="img/Philosophie.jpg" width="620" height="340" alt="Philosophie Pirate"/></a>
+	                    	<a href="#"><img src="img/Philosophie.jpg" alt="Philosophie Pirate"/></a>
                         </figure>
 						<p>Le Parti Pirate est un parti. C'est donc un ensemble de gens qui veulent s'engager en politique pour soutenir une vision du monde. Cette vision du monde se base sur un constat : les nouvelles technologies sont à la base d'une (r)évolution. Nous devons en tenir compte dans l'organisation de la société. Les Pirates proposent donc une philosophie que l'on peut résumer comme suit.</p>
 						
