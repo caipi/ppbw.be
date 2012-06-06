@@ -43,7 +43,7 @@
 											
 					</div>                   
                     
-                    <a href="#" onclick="history.back();"><b>&laquo;-</b> Retour</a>
+                    <a href="#" onclick="history.back();" class="back">Retour</a>
                 </article>
                 
 				<!-- Article Philosophie end -->	

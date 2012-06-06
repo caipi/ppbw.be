@@ -31,7 +31,7 @@
 						<p>Plus pratiquement, les Pirates belges sont aussi des équipes, à travers le pays, qui se rassemblent dans une autonomie certaine, de manière à promouvoir la réflexion, les échanges d'idées et les initiatives. En Brabant Wallon, le Crew (l'équipage pirate) est coordonnée par trois personnes mais beaucoup de pirates participent aux réunions mensuelles. Venez nous rencontrer pour discuter !</p>
                     </div>
                     
-                    <a href="#" onclick="history.back();"><b>&laquo;-</b> Retour</a>
+                    <a href="#" onclick="history.back();" class="back">Retour</a>
                 </article>
                 
 				<!-- Article Qui Sont-ils end -->
