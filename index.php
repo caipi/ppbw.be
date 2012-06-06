@@ -38,12 +38,19 @@
 			<article id="Outils">
 			
 				<div class="clear">
-					<p style="text-align:center">Suivez-nous sur 
-					<a href="https://twitter.com/#%21/pp_bw" class="external text" rel="nofollow">Twitter</a>, 
-					<a href="https://plus.google.com/u/0/b/108484344208949422944/" class="external text" rel="nofollow">Google+</a>, et
-					<a href="http://www.facebook.com/pages/Parti-Pirate-Brabant-wallon/132640623428484" class="external text" rel="nofollow">Facebook</a>.
-					</p>
-					<p style="text-align:center">Participez avec nous sur le <a href="http://www.pirateparty.be/wiki/index.php/Crew_BW">wiki</a> ou le <a href="http://forum.pirateparty.be/forumdisplay.php?fid=22" class="external text" rel="nofollow"> forum</a>.</p>
+
+					<p class="social">
+					<a href="https://twitter.com/#%21/pp_bw" class="external text twitter-link" rel="nofollow">Twitter</a>
+					<a href="https://plus.google.com/u/0/b/108484344208949422944/" class="external text gplus-link" rel="nofollow">Google+</a>
+					<a href="http://www.facebook.com/pages/Parti-Pirate-Brabant-wallon/132640623428484" class="external text facebook-link" rel="nofollow">Facebook</a>
+					<p class="wiki">Participez avec nous sur le <a href="http://www.pirateparty.be/wiki/index.php/Crew_BW">wiki</a> ou le <a href="http://forum.pirateparty.be/forumdisplay.php?fid=22" class="external text" rel="nofollow"> forum</a>.</p>
+					<form action="http://admin.infomaniak.ch/mail/mailinglist_process.php" method="POST">
+					<p>Inscrivez-vous à notre Newsletter :					
+					<input name="maillist" type="hidden" value="cHAuYmUuYnJhYmFudHdhbGxvbkBwaXJhdGVwYXJ0eS5iZQ==" />
+					<input name="action" type="hidden" value="add" />
+					<input name="url" type="hidden" value="http://pirateparty.be/?page_id=65&#038;lang=en" />
+					<input name="email" size="20" type="text" placeholder="Email" />
+					<input name="add" type="submit" value="Go" /></p></form>
 					<div class="twitter"><a href="https://twitter.com/pp_bw" class="twitter-follow-button" data-show-count="false" data-lang="fr">Suivre @pp_bw</a></div>
 					
 				</div>

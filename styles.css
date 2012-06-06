@@ -143,13 +143,7 @@ body{
 /* Hyperlink Styles: */
 
 a, a:visited {
-	color:#259dff;
 	text-decoration:none;
-	outline:none;
-}
-
-a:hover{
-	text-decoration:underline;
 }
 
 a img{
@@ -276,6 +270,31 @@ nav, article, nav ul li a,figure{
 	border-radius:10px;
 }
 
+.social{
+	float:right;
+	text-align:right;
+}
+
+a.facebook-link, a.twitter-link, a.gplus-link{
+	display:inline-block;
+	padding-top:3px;
+	height:32px;
+	padding-right:35px;
+}
+
+a.facebook-link{
+	background:url("img/facebook-32x32.png") no-repeat right center;
+}
+a.twitter-link{
+	background:url("img/twitter-32x32.png") no-repeat right center;
+}
+a.gplus-link{
+	background:url("img/googleplus-32x32.png") no-repeat right top;
+}
+
+.wiki{
+}
+
 /* Article styles: */
 
 .exposant {
@@ -296,8 +315,23 @@ article{
 	background-color:#562178;
 	margin:3em 0;
 	padding:20px;
-	color:#fff;
+	color:#ffffff;
 	text-shadow:0 2px 0 black;
+}
+
+article ul{
+	margin-left:30px;
+}
+
+article a, article a:visited {
+	color:#259dff;  /*#259dff;*/
+	text-decoration:none;
+	outline:none;
+}
+
+article a:hover{
+	text-decoration:underline;
+	/*font-style:italic;*/
 }
 
 figure{
@@ -331,9 +365,6 @@ figure img{
 	margin-left:0px;
 }
 
-article ul{
-	margin-left:30px;
-}
 
 /* Footer styling: */
 
@@ -350,7 +381,7 @@ footer p{
 }
 
 footer a,footer a:visited{
-	color:#cccccc;
+	color:#999999;
 	display:block;
 	padding:2px 4px;
 	z-index:100;
@@ -362,12 +393,11 @@ footer a:hover{
 	/*text-shadow:0 1px 0 black;*/
 }
 
-footer a.by{
+footer .by{
 	float:left;
-
 }
 
-footer a.up{
+footer .up{
 	float:right;
 }
 
