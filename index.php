@@ -38,7 +38,7 @@
 			<article id="Outils">
 			
 				<div class="clear">
-					<p style="text-align:center">Suivez nous sur 
+					<p style="text-align:center">Suivez-nous sur 
 					<a href="https://twitter.com/#%21/pp_bw" class="external text" rel="nofollow">Twitter</a>, 
 					<a href="https://plus.google.com/u/0/b/108484344208949422944/" class="external text" rel="nofollow">Google+</a>, et
 					<a href="http://www.facebook.com/pages/Parti-Pirate-Brabant-wallon/132640623428484" class="external text" rel="nofollow">Facebook</a>.
