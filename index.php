@@ -51,8 +51,7 @@
 					<input name="url" type="hidden" value="http://pirateparty.be/?page_id=65&#038;lang=en" />
 					<input name="email" size="20" type="text" placeholder="Email" />
 					<input name="add" type="submit" value="Go" /></p></form>
-					<div class="twitter"><a href="https://twitter.com/pp_bw" class="twitter-follow-button" data-show-count="false" data-lang="fr">Suivre @pp_bw</a></div>
-					
+				
 				</div>
 				<?php dernierTweet(); ?> <!-- Derniers Tweet de @pp_bw -->
 			</article>
