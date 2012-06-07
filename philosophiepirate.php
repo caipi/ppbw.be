@@ -18,7 +18,7 @@
                     <div class="articleBody clear">
                     
                     	<figure> <!-- The figure tag marks data (usually an image) that is part of the article -->
-	                    	<a href="#"><img src="img/Philosophie.jpg" alt="Philosophie Pirate"/></a>
+	                    	<img src="img/Philosophie.jpg" alt="Philosophie Pirate"/>
                         </figure>
 						<p>Les nouvelles technologies et Internet en particulier sont à la base d'une (r)évolution qui est en passe de bouleverser la société autant que l'imprimerie au XVe siècle. Le Parti Pirate est un mouvement international qui veut s'engager en politique pour que la société, et la sphère politique en particulier, intègre ces changements radicaux. Pour ce faire le, Parti Pirate propose une philosophie que l'on peut résumer comme suit. </p>
 						

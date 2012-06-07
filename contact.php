@@ -20,7 +20,7 @@
                     
                     <div class="articleBody clear">
                     	<figure style="height:150px">
-	                    	<a href="#"><img src="img/Logo-bw.png" width="620" height="340" alt="Contactez nous"/></a>
+	                    	<img src="img/Logo-bw.png" width="620" height="340" alt="Contactez nous"/>
                         </figure>
                         
 						<p>Suivez-nous sur les résaux sociaux : <br /><a href="https://twitter.com/#%21/pp_bw" class="external text twitter-link" rel="nofollow">Twitter</a>, <a href="https://plus.google.com/u/0/b/108484344208949422944/" class="external text gplus-link" rel="nofollow">Google+</a> et <a href="http://www.facebook.com/pages/Parti-Pirate-Brabant-wallon/132640623428484" class="external text facebook-link" rel="nofollow">Facebook</a></p>
