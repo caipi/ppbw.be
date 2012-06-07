@@ -29,7 +29,7 @@
 
                      </div>
                      
-                     <a href="#" onclick="history.back();" class="back">Retour</a>
+                     <a href="#" onclick="history.back(); return false;" class="back">Retour</a>
                 </article>
                 
 				<!-- Article Proposition end -->

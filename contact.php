@@ -40,7 +40,7 @@ var d="";for(var i=0;i<605;i++)d+=String.fromCharCode(("\"l}+ H-_b%!<5DyM=`X#^Wt
 						<p>Ahoy!</p>
                     </div>
                     
-                    <a href="#" onclick="history.back();" class="back">Retour</a>
+                    <a href="#" onclick="history.back(); return false;" class="back">Retour</a>
                 </article>
                 
 				<!-- Article Contact end -->
