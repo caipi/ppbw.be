@@ -1,12 +1,18 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
 # Web Files
 *.php	text
 *.css	text
 *.html	text
 *.htm	text
-*.je	text
+*.js	text
 
-# Auto detect text files and perform LF normalization
-* text=auto
+# Image
+*.jpg	binary
+*.png	binary
+*.gif	binary
+*.bmp	binary
 
 # Custom for Visual Studio
 *.cs     diff=csharp
@@ -17,13 +23,13 @@
 *.dbproj merge=union
 
 # Standard to msysgit
-*.doc	 diff=astextplain
-*.DOC	 diff=astextplain
-*.docx diff=astextplain
-*.DOCX diff=astextplain
-*.dot  diff=astextplain
-*.DOT  diff=astextplain
-*.pdf  diff=astextplain
-*.PDF	 diff=astextplain
-*.rtf	 diff=astextplain
-*.RTF	 diff=astextplain
+*.doc	diff=astextplain
+*.DOC	diff=astextplain
+*.docx 	diff=astextplain
+*.DOCX 	diff=astextplain
+*.dot  	diff=astextplain
+*.DOT  	diff=astextplain
+*.pdf  	diff=astextplain
+*.PDF	diff=astextplain
+*.rtf	diff=astextplain
+*.RTF	diff=astextplain
