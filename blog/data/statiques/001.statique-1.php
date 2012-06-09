@@ -1,0 +1,1 @@
+<p><?php echo 'Ma première page statique !'; ?></p>
