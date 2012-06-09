@@ -4,7 +4,7 @@
 	<parametre name="description"><![CDATA[]]></parametre>
 	<parametre name="meta_description"><![CDATA[]]></parametre>
 	<parametre name="meta_keywords"><![CDATA[]]></parametre>
-	<parametre name="racine"><![CDATA[http://ppbw.local/blog/]]></parametre>
+	<parametre name="racine"><![CDATA[http://ppbw.be/blog/]]></parametre>
 	<parametre name="timezone"><![CDATA[Europe/Brussels]]></parametre>
 	<parametre name="allow_com">1</parametre>
 	<parametre name="mod_com">0</parametre>
