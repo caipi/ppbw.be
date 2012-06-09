@@ -1,6 +1,6 @@
 <header> <!-- Defining the header section of the page with the appropriate tag -->	
 
-	<div id="news">Rencontre des pirates ce <b>vendredi 8 juin à 19h30</b> sur la place des Doyens à Louvain-La-Neuve.  <b>Feel welcome!</b></div>
+	<div id="news">Rencontre des pirates ce <b>vendredi 13 juillet à 19h30</b> sur la place des Doyens à Louvain-La-Neuve.  <b>Feel welcome!</b></div>
 
 	<a href="/"><img src="img/Logo-bw.png" alt="logo du ppbw"/></a>
 	
