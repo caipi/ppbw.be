@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<document>
-	<plugin name="plxeditor" activate="0"><![CDATA[]]></plugin>
-	<plugin name="plxMyComSmilies" activate="0"><![CDATA[]]></plugin>
-	<plugin name="plxMyRescueData" activate="1"><![CDATA[MyRescueData]]></plugin>
-	<plugin name="ckeditor" activate="0"><![CDATA[]]></plugin>
-</document>

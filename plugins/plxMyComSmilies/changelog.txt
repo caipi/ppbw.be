@@ -1,8 +1,0 @@
-## version 1.1 (02/01/2012) ##
-[+] Ajout d'une barre d'icones pour faciliter la saisie des smilies dans la zone de commentaire
-
-## version 1.0.1 (20/10/2011) ##
-BUG Mauais encodage du fichier plxMyComSmilies.php
-
-## version 1.0 (17/10/2011) ##
-version initiale
