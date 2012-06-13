@@ -1,0 +1,8 @@
+## version 1.1 (07/12/2011) ##
+
+BUG Mauvaise redirection sur l'écran de configuration
+BUG Mauvais encodage fichier plxMyRescueData.php
+
+## version 1.0 (06/12/2011) ##
+
+version initiale

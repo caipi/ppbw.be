@@ -1,0 +1,8 @@
+Version 1.3.1 (19/05/2012)
+[+] Protection des adresses emails dans les pages statiques
+
+Version 1.3 (18/05/2012)
+[+] Mise à jour de CKEditor en version 3.6.3
+[+] Remplacement de CKFinder par KCFinder 2.51 (alternative open-source)
+[+] Paramètrage du dossier de stockage des fichiers à partir de l'écran de configuration du plugin
+[+] Protection des adresses emails dans les articles

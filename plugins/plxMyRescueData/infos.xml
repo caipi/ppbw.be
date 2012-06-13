@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<title><![CDATA[MyRescueData]]></title>
+	<author><![CDATA[Stephane F.]]></author>
+	<version>1.1</version>
+	<date>06/12/2011</date>
+	<site>http://code.google.com/p/my-pluxml/</site>
+	<description><![CDATA[Save article and static page forms data to LocalStorage to restore them after browser crashes, tabs closings and other disasters]]></description>
+	<requirements></requirements>
+</document>
